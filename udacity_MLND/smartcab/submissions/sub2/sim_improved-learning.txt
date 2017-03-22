@@ -1,0 +1,5 @@
+/-----------------------------------------
+| State-action rewards from Q-Learning
+\-----------------------------------------
+
+(('red', None, 'forward', 'forward', 'right'), 'forward')

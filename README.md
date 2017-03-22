@@ -1,2 +1,3 @@
 # machine-learning
-machine learning projects
+Udacity ML Nanaodegree projects and personal ML projects
+
