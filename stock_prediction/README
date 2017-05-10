@@ -1,5 +1,0 @@
-# Social Stock Predictor
-
-This software tests whether investor sentiment collected from social networks (e.g. **Stocktwits**) can be the basis of short-term (3-5 days) stock trading decisions. It relies on stocktwits investor sentiment dataset over 2 years collected via an data acquisition program. For more on Stocktwits, see https://stocktwits.com/home#people-and-stocks
-
-

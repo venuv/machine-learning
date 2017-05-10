@@ -1,6 +1,0 @@
-The external data sources and libraries used in this project are:
-
-- A stocktwits investor sentiment dataset over 2 years collected via an data acquisition program (stwits_730.py). For more on Stocktwits, see https://stocktwits.com/home#people-and-stocks
-- Textblob, a text analytics package on top of NLTK
-- Pandas-datareader to access stock information from Yahoo finance
-
